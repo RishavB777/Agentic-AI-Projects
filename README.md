@@ -35,8 +35,6 @@ Before you begin, ensure you have the following installed:
 - Essential AI Frameworks:
   - Phidata
   - Langflow
-  - LangGraph
-  - AutoGen
 
 ### Installation
 
@@ -57,13 +55,6 @@ Before you begin, ensure you have the following installed:
 
 4. You're ready to explore and run the projects!
 
-## 🤝 Contributing
-
-We believe in the power of community collaboration. Whether you're fixing bugs, adding features, or improving documentation, your contributions are valuable to us.
-
-‼️ **Sequential Project Uploads: Please add projects in a step-by-step sequence, accompanied by video tutorials, and ensure the code matches the learning flow.**
-
-‼️ **Address Issues: Help fix issues raised by other contributors to enhance the repository collaboratively.**
 
 ```bash
 Naming Format:
